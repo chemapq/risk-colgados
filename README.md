@@ -20,3 +20,6 @@
 
 ## Brainstorm:
 
+* Regiones cambian de color de fondo
+* Animaciones en batalla?
+* Guardado de partida?
