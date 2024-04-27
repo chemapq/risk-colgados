@@ -1,5 +1,7 @@
 # Juego de Risk para Colgados del Aro
 
+## Ideas:
+
 * Mapa de españa/mundo
 * Dividido por regiones (continentes)
 * Regiones divididas por provincias (países)
