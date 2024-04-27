@@ -1,20 +1,20 @@
 # Juego de Risk para Colgados del Aro
 
--Mapa de españa/mundo
--Dividido por regiones (continentes)
--Regiones divididas por provincias (países)
--Los soldados son jugadores
--Cuando sacas a un jugador ya no lo puedes volver a usar
--Defensores pueden repetir jugador 
--Si un país tiene ≥2, puedes sacar a varios jugadores a la vez y los jueces eligen al mejor (pero pierdes a todos los que saques)
+* Mapa de españa/mundo
+* Dividido por regiones (continentes)
+* Regiones divididas por provincias (países)
+* Los soldados son jugadores
+* Cuando sacas a un jugador ya no lo puedes volver a usar
+* Defensores pueden repetir jugador 
+* Si un país tiene ≥2, puedes sacar a varios jugadores a la vez y los jueces eligen al mejor (pero pierdes a todos los que saques)
 
 
 
-Dudas:
+## Dudas:
 
--Los jugadores sacados de una base de datos? o inventados
+* Los jugadores sacados de una base de datos? o inventados
 
 
 
-Brainstorm:
+## Brainstorm:
 
