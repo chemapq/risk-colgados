@@ -23,3 +23,5 @@
 * Regiones cambian de color de fondo
 * Animaciones en batalla?
 * Guardado de partida?
+* Tirar dado para que luchen en Carrera/Jugador/Relevancia
+
